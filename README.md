@@ -50,10 +50,14 @@ Demonstra proficiência em concorrência, modelagem de domínio e arquitetura de
 ## 📊 Estatísticas
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/NicoBernardes/NicoBernardes/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
-
-
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=NicoBernardes&show_icons=true&theme=aura" 
+    width="420"
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NicoBernardes&layout=compact&theme=aura" 
+    width="320"
+  />
 </div>
 
 ---
